@@ -27,7 +27,7 @@ SECRET_KEY = 'v^#j3uh3*8xp=9l99))gznl90gmfnh5jo=v4zdlbyb%p6t&fkj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['git.heroku.com/chaz-todo-code-inst-project.git']
 
 
 # Application definition
